@@ -1,0 +1,7 @@
+"./main.obj"
+"./motor.obj"
+"./sensors.obj"
+"./startup_msp432p401y_ccs.obj"
+"./system_msp432p401y.obj"
+"../msp432p401y.cmd"
+-llibc.a
